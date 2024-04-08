@@ -17,4 +17,4 @@
 <img alt="codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
 </div>
 
-Apaixonada pela programação e sempre buscando aprender novas linguagens e inovar a si mesma.
+Apaixonada pela programação, sempre buscando aprender novas linguagens e inovar a si mesma.
