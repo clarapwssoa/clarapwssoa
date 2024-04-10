@@ -15,11 +15,10 @@ Passionate coder with a penchant for problem-solving and a love for clean, effic
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="55" height="55"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a>  
-</p>
-></br>
+</p></br>
 
 ## 📊 GitHub Stats
-<p style="display:flex; flex-direction: column">
+<p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=clarapwssoa&show_icons=true&theme=monokai&hide_border=true" media="(prefers-color-scheme: radical)" alt="Clara Pessoa"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarapwssoa&layout=compact&theme=monokai&hide_border=true" media="(prefers-color-scheme: radical)" alt="Clara Pessoa" height="120"/>
 </p>
